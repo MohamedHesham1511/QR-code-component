@@ -90,6 +90,7 @@ body {
 
 .QR-card {
   cursor: pointer;
+  margin-top: 6rem;
   width: 20%;
 }
 
